@@ -1,2 +1,1 @@
-# stonia-first-project
-stonia-first-project
+# 🤖 Stonia's First Project
